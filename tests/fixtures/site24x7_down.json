@@ -1,0 +1,8 @@
+{
+  "monitor_name": "API Health Check",
+  "status": "DOWN",
+  "monitor_url": "https://api.example.com/health",
+  "incident_reason": "HTTP 500 returned by the target endpoint",
+  "dashboard_link": "https://www.site24x7.com/app/monitor-details/123456",
+  "timestamp": "2026-07-10T12:00:00Z"
+}

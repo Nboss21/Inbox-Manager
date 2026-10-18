@@ -1,0 +1,1 @@
+"""Inbox Manager application package."""
